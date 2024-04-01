@@ -14,7 +14,7 @@ let react = new ex.ReactApp(
   api.get("/title", inflight () => {
     return {
       status: 200,
-      body: "Hello from the API"
+      body: "Hello from the Ayush Thakur's API"
     };
   });
 
